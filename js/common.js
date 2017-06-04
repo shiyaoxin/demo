@@ -1,1 +1,4 @@
-console.log(111)
+console.log(111);
+function love(n) {
+     return n;
+}
